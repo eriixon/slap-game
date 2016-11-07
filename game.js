@@ -58,4 +58,7 @@ function update() {
     if(health <= 0){
          $("img[src]").attr("src", "./img/dead.png")
     } else $("img[src]").attr("src", "./img/man.png")
+    if(health <100) {
+        $("img[style]").addClass("redish")
+    }
 };
