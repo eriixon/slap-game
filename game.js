@@ -30,6 +30,7 @@ var items = {
 
 var player = { items:[] }
 
+update();
 
 function addMods(x) {
       
