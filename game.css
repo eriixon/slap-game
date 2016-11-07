@@ -49,7 +49,7 @@ body{
 .game-over {
     background-color: red;
 }
-redish{
+.redish{
     background: -moz-linear-gradient(top, rgba(248,80,50,1) 0%, rgba(240,47,23,0.36) 71%, rgba(246,41,12,0.17) 92%, rgba(231,56,39,0.1) 100%);
     background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(248,80,50,1)), color-stop(71%, rgba(240,47,23,0.36)), color-stop(92%, rgba(246,41,12,0.17)), color-stop(100%, rgba(231,56,39,0.1)));
 }
